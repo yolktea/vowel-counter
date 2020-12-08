@@ -1,0 +1,12 @@
+#subBtn{
+	background-color: #007bff;
+	color: black;
+   }
+   #subBtn:hover{
+	background-color: darkblue;
+	color: white;
+   }
+   body{
+	   text-align: center;
+	background-color: palegreen;
+   }
